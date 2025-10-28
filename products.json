@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Coca-Cola Bottle",
+        "price": 5,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Coca-Cola_bottle.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Coca-Cola Can",
+        "price": 3,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Coca-Cola_can.jpg"
+    }
+]
