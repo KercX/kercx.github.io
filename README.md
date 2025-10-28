@@ -1,3 +1,1 @@
-# COCA COLA STORE 
-
-𓆩❤𓆪
+# COCA COLA STORE
